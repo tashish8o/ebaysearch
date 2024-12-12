@@ -1,0 +1,19 @@
+.XXX{
+
+    width:60% !important;
+
+
+}
+
+
+@media screen and (max-width: 1200px) {
+
+  .XXX{
+
+    width:100% !important;
+
+
+  }
+
+
+  }

@@ -1,0 +1,30 @@
+.x{
+    color:#548b8d;
+    text-decoration:none;
+    cursor: pointer;
+}
+.x:hover{
+    color:#548b8d;
+    text-decoration:"underline";
+    cursor: pointer;
+}
+
+a{
+
+text-decoration: none;
+color:#548b8d;
+cursor: pointer;
+
+}
+.linktextx {
+    color: #548b8d;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  /* Add underline when the text is hovered over */
+  .linktextx:hover {
+    text-decoration: underline;
+    color: #548b8d;
+    cursor: pointer; /* You can change the color as needed */
+  }

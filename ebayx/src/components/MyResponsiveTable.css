@@ -1,0 +1,15 @@
+.striped-row {
+    background-color:#212529; /* Stripe color */
+    color: white;
+  }
+.unstriped-row {
+    background-color: #2c3034; 
+    color:white;/* Stripe color */
+  } 
+  
+  .name-column, .value-column {
+    background-color: blue; /* Dark table background color */
+    color: green; /* Text color for dark rows */
+    padding: 10px;
+    margin-bottom: 10px;
+  }

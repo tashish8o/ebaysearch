@@ -1,0 +1,32 @@
+.table.table-striped.table-dark.table-hover tbody tr.highlight-row td {
+  --bs-table-striped-bg: #c6c8ca;
+  --bs-table-bg:#c6c8ca;
+
+}
+
+
+.linktext {
+  color: #006edc;
+  text-decoration: none;
+}
+
+/* Add underline when the text is hovered over */
+.linktext:hover {
+  text-decoration: underline;
+  color: #006edc; 
+  cursor: pointer;/* You can change the color as needed */
+}
+
+/* .table.table-striped.table-dark.table-hover tbody tr td div.customtooltip.linktext.d-inline-block.text-truncate {
+  --bs-tooltip-bg:var(--bs-primary);
+} */
+
+
+.tooltipx{
+
+  background-color: #464748 !important;
+  color:white !important;
+  max-width: 400px;
+  text-align: center;
+  border-radius: 5px;
+}
